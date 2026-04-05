@@ -30,11 +30,17 @@ A simple **CRUD API** built using **FastAPI + SQLAlchemy + MySQL** to manage a b
 
 
 fastapi_application/
+
 │
+
 ├── main.py # FastAPI app (routes)
+
 ├── database.py # DB connection & session
+
 ├── model.py # SQLAlchemy models
+
 ├── create_table.py # Create DB tables
+
 └── README.md
 
 
